@@ -1,4 +1,9 @@
 # Front end
 the reader's club website front end 
-# Framework
+## Framework
 Vue
+# Server end
+## Framework
+Express
+# Database
+MongoDB
